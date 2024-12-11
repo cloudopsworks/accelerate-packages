@@ -110,7 +110,7 @@ gomplate                  3.10.0
 semver                    0.4.5      SEMVER utility for versioning generation
 terraform                 1.3.3      Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
 terraform-docs            0.16.0     Generate docs from terraform modules
-yq                        4.23.1     
+yq                        4.35.1     
 ```
 
 
